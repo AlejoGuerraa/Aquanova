@@ -9,7 +9,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <img
-                src="/WhatsApp_Image_2026-05-13_at_18.45.22.jpeg"
+                src="/Icono.png"
                 alt="Aquanova Logo"
                 className="h-10 w-10 object-contain"
               />
