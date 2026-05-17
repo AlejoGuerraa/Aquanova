@@ -5,26 +5,20 @@ import { Waves, Smartphone, Sparkles, Shield, ArrowRight, Droplet } from "lucide
 export function Home() {
   return (
     <div className="min-h-screen">
-      <section className="relative h-[600px] flex items-center justify-center overflow-hidden bg-gradient-to-br from-primary/20 via-accent/10 to-background">
-        <div className="absolute inset-0 opacity-20">
-          <div className="absolute top-0 left-1/4 w-96 h-96 bg-primary/30 rounded-full blur-3xl"></div>
-          <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-accent/30 rounded-full blur-3xl"></div>
+      <section className="relative overflow-hidden w-full h-screen">
+        {/* Banner Image - Full Width & Height */}
+        <div className="relative w-full h-full bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/Banner.png')", backgroundSize: "cover", backgroundPosition: "center" }}>
+          <div className="absolute inset-0 bg-black/10"></div>
         </div>
-
-        <div className="container mx-auto px-4 lg:px-8 relative z-10">
+      </section>
+      <section className="py-20 bg-white">
+        <div className="container mx-auto px-4 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
             <motion.div
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
             >
-              <div className="flex justify-center mb-6">
-                <img
-                  src="/WhatsApp_Image_2026-05-13_at_18.45.21-1.jpeg"
-                  alt="Aquanova Logo"
-                  className="h-32 object-contain"
-                />
-              </div>
               <h1 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
                 Piletas Inteligentes del Futuro
               </h1>

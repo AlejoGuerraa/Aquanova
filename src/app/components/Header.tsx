@@ -11,7 +11,7 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           <Link to="/" className="flex items-center gap-3">
             <img
-              src="/WhatsApp_Image_2026-05-13_at_18.45.22.jpeg"
+              src="/Icono.png"
               alt="Aquanova Logo"
               className="h-12 w-12 object-contain"
             />
