@@ -1,0 +1,20 @@
+{
+  "id": "rectangular-classic",
+  "name": "Pileta Rectangular Clásica",
+  "category": "Residencial",
+  "tags": ["rectangular", "clásica", "familiar", "natación"],
+  "dimensions": "8m x 4m x 1.5m",
+  "capacity": "48,000 litros",
+  "thumbnailImage": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=800&q=80",
+  "images": [
+    "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=1200&q=80",
+    "https://images.unsplash.com/photo-1519821172144-4f87d85de2a1?w=1200&q=80"
+  ],
+  "shortDescription": "Diseño clásico rectangular ideal para familias y natación.",
+  "features": [
+    "Sistema de domotización completo",
+    "Control de temperatura automático",
+    "Iluminación LED RGB",
+    "Sistema de filtrado inteligente"
+  ]
+}

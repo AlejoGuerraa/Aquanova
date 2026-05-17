@@ -1,0 +1,20 @@
+{
+  "id": "freeform-luxury",
+  "name": "Pileta Forma Libre Premium",
+  "category": "Luxury",
+  "tags": ["forma libre", "luxury", "diseño", "paisajismo"],
+  "dimensions": "10m x 6m x 1.8m",
+  "capacity": "65,000 litros",
+  "thumbnailImage": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=800&q=80",
+  "images": [
+    "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=1200&q=80",
+    "https://images.unsplash.com/photo-1566127992631-137a642a90f4?w=1200&q=80"
+  ],
+  "shortDescription": "Diseño orgánico de forma libre que se integra perfectamente con tu jardín.",
+  "features": [
+    "Diseño personalizado único",
+    "Bordes curvos y naturales",
+    "Sistema de cascada integrado",
+    "Domotización avanzada"
+  ]
+}

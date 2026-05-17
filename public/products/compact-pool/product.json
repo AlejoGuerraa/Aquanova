@@ -1,0 +1,20 @@
+{
+  "id": "compact-pool",
+  "name": "Pileta Compacta Urbana",
+  "category": "Residencial",
+  "tags": ["compacta", "urbana", "pequeña", "moderna"],
+  "dimensions": "5m x 3m x 1.4m",
+  "capacity": "21,000 litros",
+  "thumbnailImage": "https://images.unsplash.com/photo-1609594098630-751a2b8a4dc6?w=800&q=80",
+  "images": [
+    "https://images.unsplash.com/photo-1609594098630-751a2b8a4dc6?w=1200&q=80",
+    "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=1200&q=80"
+  ],
+  "shortDescription": "Diseño compacto perfecto para espacios reducidos sin sacrificar calidad.",
+  "features": [
+    "Ideal para espacios pequeños",
+    "Diseño moderno y eficiente",
+    "Sistema completo de domotización",
+    "Bajo consumo energético"
+  ]
+}
