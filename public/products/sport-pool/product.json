@@ -5,9 +5,9 @@
   "tags": ["deportiva", "natación", "entrenamiento", "profesional"],
   "dimensions": "25m x 10m x 2m",
   "capacity": "500,000 litros",
-  "thumbnailImage": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=800&q=80",
+  "thumbnailImage": "/products/sport-pool/Deportiva.jpg",
   "images": [
-    "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=1200&q=80",
+    "/products/sport-pool/Deportiva.jpg",
     "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=1200&q=80"
   ],
   "shortDescription": "Pileta de 25 metros para entrenamiento profesional y competencia.",

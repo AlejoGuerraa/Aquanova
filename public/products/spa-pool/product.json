@@ -5,9 +5,9 @@
   "tags": ["spa", "hidromasaje", "relajación", "wellness"],
   "dimensions": "9m x 4.5m x 1.5m + Spa 3m x 3m",
   "capacity": "54,000 litros + 8,000 litros",
-  "thumbnailImage": "https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=800&q=80",
+  "thumbnailImage": "/products/spa-pool/Spa.jpg",
   "images": [
-    "https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=1200&q=80",
+    "/products/spa-pool/Spa.jpg",
     "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200&q=80"
   ],
   "shortDescription": "Combina natación y relajación con una zona de spa integrada con hidromasaje.",
